@@ -35,6 +35,6 @@ You can click the Preview link to take a look at your changes.
 
 **<h3 align="left">Connect with me:</h3>**
 <p align="left">
-<code><a href="https://linkedin.com/in/ankit-royal" target="blank"><img src="icons/linkedin.png" alt="Linkedin" height="25" width="25" /></a></code>
-<code><a href="https://www.leetcode.com/ankitroyal" target="blank"><img src="icons/leetcode.png" alt="LeetCode" height="25" width="25" /></a></code>
+<code><a href="https://www.linkedin.com/in/ankit-royal/" target="blank"><img src="icons/linkedin.png" alt="Linkedin" height="25" width="25" /></a></code>
+<code><a href="https://www.leetcode.com/ankitroyal/" target="blank"><img src="icons/leetcode.png" alt="LeetCode" height="25" width="25" /></a></code>
 </p>
