@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 <code><img src="./icons/react.png" alt="React JS" height="40"></code>
 <code><img src="./icons/redux.png" alt="Redux" height="40"></code>
 <code><img src="./icons/js.png" alt="JavaScript" height="40"></code>
+<code><img src="./icons/tailwindcss.png" alt="TailwindCSS" height="40"></code>
 <code><img src="./icons/jquery.png" alt="Jquery" height="40"></code>
 <code><img src="./icons/jqueryui.png" alt="Jquery UI" height="40"></code>
 <code><img src="./icons/bootstrap.png" alt="BootStrap" height="40"></code>
