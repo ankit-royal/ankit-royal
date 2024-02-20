@@ -24,11 +24,11 @@ You can click the Preview link to take a look at your changes.
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/1c08e729-13fe-4e61-a689-9edd9b924458" alt="ExpressJS" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/17a754b3-4403-41c7-b636-b18e9a979b53" alt="ReactJS" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/63134c25-f195-468c-8889-905554502062" alt="NodeJS" height="40"></code>
-<!---<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/b46a762e-5160-4f8a-9dd1-a28dd363b69d" alt="NextJS" height="40"></code>--->
+<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/b46a762e-5160-4f8a-9dd1-a28dd363b69d" alt="NextJS" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/c5f97ad4-b07a-4cda-9662-6dde6ba225c0" alt="Redux" height="40"></code>
-<!---<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/3eb870a2-e01b-47d4-9915-f7b4f8bbf2ff" alt="FastApi" height="40"></code>--->
-<!---<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/b44c96ca-7d5a-4a4b-8741-e64d82a87156" alt="Flask" height="40"></code>--->
-<!---<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/d23a2736-4cdc-4414-85c3-d7a15800aafe" alt="Postman" height="40"></code>--->
+<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/3eb870a2-e01b-47d4-9915-f7b4f8bbf2ff" alt="FastApi" height="40"></code>
+<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/b44c96ca-7d5a-4a4b-8741-e64d82a87156" alt="Flask" height="40"></code>
+<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/d23a2736-4cdc-4414-85c3-d7a15800aafe" alt="Postman" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/068a137f-b075-4f7f-b683-2551501b839d" alt="JavaScript" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/48f2a6e1-c574-4368-be8f-f13b29e96b46" alt="TailwindCSS" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/5a1b1381-de31-4387-9453-9e0f802b47fe" alt="BootStrap" height="40"></code>
