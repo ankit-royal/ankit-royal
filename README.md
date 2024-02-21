@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/532a8a38-2379-472d-9b04-711c837de1a7" alt="Python" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/63cb5763-8b05-41b6-850e-0e0fd66d0941" alt="MySQL" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/27a742fe-0248-4925-aed8-c2cc5af8373a" alt="Django" height="40"></code>
-<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/b2143afd-eb06-4e82-9b65-f95753cb8da4" alt="MongoDB" height="40"></code>
+<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/43cd94f8-a776-47bc-8baf-6ad3e20692cc" alt="MongoDB" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/1c08e729-13fe-4e61-a689-9edd9b924458" alt="ExpressJS" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/17a754b3-4403-41c7-b636-b18e9a979b53" alt="ReactJS" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/63134c25-f195-468c-8889-905554502062" alt="NodeJS" height="40"></code>
