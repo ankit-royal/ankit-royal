@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/532a8a38-2379-472d-9b04-711c837de1a7" alt="Python" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/63cb5763-8b05-41b6-850e-0e0fd66d0941" alt="MySQL" height="40"></code>
+<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/dd380709-12aa-4d50-ad87-cf90d4f20e9f" alt="PostgreSQL" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/ec48b43e-cd88-408b-b453-0452018ad131" alt="Docker" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/27a742fe-0248-4925-aed8-c2cc5af8373a" alt="Django" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/43cd94f8-a776-47bc-8baf-6ad3e20692cc" alt="MongoDB" height="40"></code>
