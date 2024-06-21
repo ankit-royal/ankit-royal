@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/17a754b3-4403-41c7-b636-b18e9a979b53" alt="ReactJS" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/63134c25-f195-468c-8889-905554502062" alt="NodeJS" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/c5f97ad4-b07a-4cda-9662-6dde6ba225c0" alt="Redux" height="40"></code>
+<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/3eb870a2-e01b-47d4-9915-f7b4f8bbf2ff" alt="FastApi" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/a4904e52-59ab-4c3f-afab-ae09d303a26d" alt="ChartJs" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/f1d54dbf-4183-4312-b435-e9ca203392bb" alt="Linux" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/d23a2736-4cdc-4414-85c3-d7a15800aafe" alt="Postman" height="40"></code>
@@ -44,7 +45,6 @@ You can click the Preview link to take a look at your changes.
 <!--
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/b46a762e-5160-4f8a-9dd1-a28dd363b69d" alt="NextJS" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/d40db653-a494-4059-9ae0-77ca294cb1ca" alt="PhotoShop" height="40"></code>
-<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/3eb870a2-e01b-47d4-9915-f7b4f8bbf2ff" alt="FastApi" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/b44c96ca-7d5a-4a4b-8741-e64d82a87156" alt="Flask" height="40"></code>
 --->
 
