@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 - 🔗 [https://ankitroyal.dev/](https://ankitroyal.dev/)
-- 🔗 [https://ankitroyal.com/](https://ankitroyal.com/)
 <!-- 
 - 👋 Hi, I’m @ankit-royal
 - 👀 I’m interested in ...
