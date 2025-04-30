@@ -31,6 +31,9 @@ You can click the Preview link to take a look at your changes.
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/3eb870a2-e01b-47d4-9915-f7b4f8bbf2ff" alt="FastApi" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/a4904e52-59ab-4c3f-afab-ae09d303a26d" alt="ChartJs" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/f1d54dbf-4183-4312-b435-e9ca203392bb" alt="Linux" height="40"></code>
+<code><img src="https://github.com/user-attachments/assets/ef15332c-0514-448f-b96d-cbab3564a94e" alt="Ngnix" height="40" /></code>
+<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/f1d54dbf-4183-4312-b435-e9ca203392bb" alt="Linux" height="40"></code>
+<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/f1d54dbf-4183-4312-b435-e9ca203392bb" alt="Linux" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/d23a2736-4cdc-4414-85c3-d7a15800aafe" alt="Postman" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/068a137f-b075-4f7f-b683-2551501b839d" alt="JavaScript" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/48f2a6e1-c574-4368-be8f-f13b29e96b46" alt="TailwindCSS" height="40"></code>
