@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Ankit Royal</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-🔗 [My Website](https://ankitroyal.dev/){:target="_blank"}
+🔗 <a href="https://ankitroyal.dev/" target="_blank">https://ankitroyal.dev/</a>
 <!-- 
 - 👋 Hi, I’m @ankit-royal
 - 👀 I’m interested in ...
@@ -53,5 +53,5 @@ You can click the Preview link to take a look at your changes.
 <code><a href="https://www.linkedin.com/in/ankit-royal/" target="_blank"><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/e3c6cfbf-6ecc-4b31-a2fa-d4808dfede57" alt="Linkedin" height="25" width="25" /></a></code>
 <code><a href="https://www.leetcode.com/ankitroyal/" target="_blank"><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/ba8cd84b-0db5-45c3-9517-180628d3a9ae" alt="LeetCode" height="25" width="25" /></a></code>
 <code><a href="https://ankit-royal.medium.com/" target="_blank"><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/ca50e802-e238-4f4b-88b0-a6796140888f" alt="Medium" height="25" width="25" /></a></code>
-<code>[Email Me](mailto:your-email@example.com){:target="_blank"}<img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/ca50e802-e238-4f4b-88b0-a6796140888f" alt="Medium" height="25" width="25" /></a></code>
+<code><a href="mailto:your-email@example.com" target="_blank"><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/email-icon" alt="Email" height="40"></a></code>
 </p>
