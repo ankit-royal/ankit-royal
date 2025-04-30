@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Ankit Royal</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- 🔗 [My Website](https://ankitroyal.dev/)
-- 🔗 [My Website](https://ankitroyal.com/)
+- 🔗 [https://ankitroyal.dev/](https://ankitroyal.dev/)
+- 🔗 [https://ankitroyal.com/](https://ankitroyal.com/)
 <!-- 
 - 👋 Hi, I’m @ankit-royal
 - 👀 I’m interested in ...
