@@ -32,8 +32,8 @@ You can click the Preview link to take a look at your changes.
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/a4904e52-59ab-4c3f-afab-ae09d303a26d" alt="ChartJs" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/f1d54dbf-4183-4312-b435-e9ca203392bb" alt="Linux" height="40"></code>
 <code><img src="https://github.com/user-attachments/assets/ef15332c-0514-448f-b96d-cbab3564a94e" alt="Ngnix" height="40" /></code>
-<code><img src="https://github.com/user-attachments/assets/50bf60f9-eb0d-4f10-8a5a-cc6071bf95fa" alt="Vercel" height="40" /></code>
-<code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/f1d54dbf-4183-4312-b435-e9ca203392bb" alt="Linux" height="40"></code>
+<code><img src="https://github.com/user-attachments/assets/50bf60f9-eb0d-4f10-8a5a-cc6071bf95fa" alt="Vite" height="40" /></code>
+<code><img src="https://github.com/user-attachments/assets/da74c4de-b7ef-42f0-854c-3e35710cb6bd" alt="Vercel" height="40" /></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/d23a2736-4cdc-4414-85c3-d7a15800aafe" alt="Postman" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/068a137f-b075-4f7f-b683-2551501b839d" alt="JavaScript" height="40"></code>
 <code><img src="https://github.com/ankit-royal/ankit-royal/assets/151389101/48f2a6e1-c574-4368-be8f-f13b29e96b46" alt="TailwindCSS" height="40"></code>
